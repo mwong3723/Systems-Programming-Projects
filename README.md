@@ -1,1 +1,1 @@
-Projects in CPT_S 360 system programming class with project including Desinging a UNIX file system tree simulator, Building a UNIX shell, CPU scheduler, Linux Kernal, Building a Web Proxy.
+Projects in CPT_S 360 system programming class with project made in LINUX including Desinging a UNIX file system tree simulator, Building a UNIX shell, CPU scheduler, Linux Kernal, Building a Web Proxy.
